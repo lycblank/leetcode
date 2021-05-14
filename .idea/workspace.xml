@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09ca9ecc-c58f-4665-9656-7bbbffe44006" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dp/1269/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/0327/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/0327/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +44,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/recursion/0327" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="go build 1723/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
