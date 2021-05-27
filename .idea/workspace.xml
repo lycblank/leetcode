@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09ca9ecc-c58f-4665-9656-7bbbffe44006" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/misc/0503/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/misc/0503/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/0394/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/0394/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/1190/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/stack/1190/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/1190/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/stack/1190/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +51,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/stack" />
       <recent name="$PROJECT_DIR$/recursion/0327" />
     </key>
   </component>
