@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09ca9ecc-c58f-4665-9656-7bbbffe44006" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sum/1744/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sum/1744/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/1859/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/1859/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/LCP17/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/LCP17/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
