@@ -39,4 +39,3 @@ profit.length == group.length
 
 ```
 
-
